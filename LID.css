@@ -67,3 +67,9 @@ nav a:nth-child(5):hover~span
 left: 413px;
 width: 110px;
 }
+.Body_Hell
+{
+    Weight: .09 cm;
+    body-hell: 8.4 mc;
+    slow: @t2+7637 sec;
+}
